@@ -31,3 +31,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb751006&show_icons=true&theme=highcontrast)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gb751006&" alt="gb751006" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb751006)](https://github.com/anuraghazra/github-readme-stats)
