@@ -30,7 +30,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb751006&show_icons=true&theme=gruvbox&border_radius=30)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gb751006&" alt="gb751006" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gb751006&theme=dark&border_radius=30)](https://git.io/streak-stats)
 
 
 
