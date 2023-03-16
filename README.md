@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack, Reactjs and Redux**
 
-- 👨‍💻 All of my projects are available at [gb751006.github.io](gb751006.github.io)
+- 👨‍💻 All of my projects are available at [https://gb751006.github.io/](https://gb751006.github.io/)
 
 - 💬 Ask me about **Web Development, HTML, CSS, Java Script**
 
