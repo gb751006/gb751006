@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 <h3 align="center">I’m a MERN stack developer I love to build websites/application that serves the world.</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb751006)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gb751006&label=Profile%20views&color=0e75b6&style=flat" alt="gb751006" /> </p>
 
 - 🌱 I’m currently learning **Full Stack, Reactjs and Redux**
 
